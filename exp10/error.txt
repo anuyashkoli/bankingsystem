@@ -1,1 +1,6 @@
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+npm init -y
+npm install mongodb
+node exp10.js
